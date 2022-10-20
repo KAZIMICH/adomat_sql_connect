@@ -1,4 +1,4 @@
-host = "your_host"
-user = "your_user"
-password = "your_password"
-db_name = "your_db_name"
+host = "localhost"
+user = "PM"
+password = "sql_1969"
+db_name = "sakila"
